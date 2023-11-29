@@ -3,22 +3,12 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+* Ruby version 3.0.0
+* Rails version 7.1.2
 
-* Ruby version
+* Ive included a simple seed file for your convienance
+  * `bundle exec rails db:seed`
 
-* System dependencies
+* `bin/dev` to start server for project
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 
